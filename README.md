@@ -1,4 +1,4 @@
-# Specialty-Imports-Case-Study
+# Specialty Imports Case Study
 
 This case study was completed for DBAS 27198 (Database Design and Implementation).
 
