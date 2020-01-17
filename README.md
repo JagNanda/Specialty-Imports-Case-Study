@@ -2,7 +2,7 @@
 
 This case study was completed for DBAS 27198 (Database Design and Implementation).
 
-It involved creating conceptual database model, converting it to a Relational Logical database model by applying normalization logic so that it is in it's 3rd Normal Form and more. Please see below for more information about the requirements for this case study. Please also see [SpecialtyImportsCaseStudy.pdf](SpecialtyImportsCaseStudy.pdf) for the actual case and [SpecialtyImportsFinalReport.docx](SpecialtyImportsFinalReport.docx) for the solution and report.
+It involved creating conceptual database model, converting it to a Relational Logical database model by applying normalization logic so that it is in it's 3rd Normal Form and more. Please see below for more information about the requirements for this case study. Please also see [SpecialtyImports.pdf](SpecialtyImports.pdf) for the actual case and [SpecialtyImportsFinalReport.docx](SpecialtyImportsFinalReport.docx) for the solution and report.
 
 
 ## Required Deliverables
